@@ -47,7 +47,7 @@ If you already have a local repo with a remote set up, you can grab all branches
 
 ### pull
 
-Similar to `git fetch`, you can use `git pull REMOTENAME BRANCHNAME` to fetch a specific branch and merge it into your current local branch.  For on-time pulls from other users' repos you can use a URL instead of a remote name.  This will pull from that URL without adding a remote.
+Similar to `git fetch`, you can use `git pull REMOTENAME BRANCHNAME` to fetch a specific branch and merge it into your current local branch.  For one-time pulls from other users' repos you can use a URL instead of a remote name.  This will pull from that URL without adding a remote.
 
 Because pull performs a merge you should ensure that your working tree and index are clean before running the command.  If you run into a merge conflict you cannot resolve or decide to abort the merge, you can use `git reset ORIG_HEAD --hard` to take the branch back to the commit it was on before you pulled.
 
