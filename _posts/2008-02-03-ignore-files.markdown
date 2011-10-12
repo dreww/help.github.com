@@ -54,7 +54,7 @@ Some good rules to add to this file:
 
 # OS generated files #
 ######################
-.DS_Store?
+.DS_Store*
 ehthumbs.db
 Icon?
 Thumbs.db
