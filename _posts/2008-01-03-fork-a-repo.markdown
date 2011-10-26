@@ -168,7 +168,7 @@ You&rsquo;ve successfully forked a repo, but get a load of these other cool thin
 
 ##<span class="step">Lastly:</span> Celebrate
 
-You have now created forked a repo. What do you want to do next?
+You have now forked a repo. What do you want to do next?
 
 <ol class="next-steps">
 <li><a href="/set-up-git-redirect/">Set Up Git</a></li>
