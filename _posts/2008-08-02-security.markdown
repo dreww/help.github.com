@@ -69,7 +69,7 @@ We keep a security consultant on retainer to help identify and prevent new attac
 
 We also maintain relationships with reputable security firms to perform regular penetration tests and ongoing audits of GitHub and its code. These firms include [nGenuity](http://www.ngenuity-is.com) and [Matasano Security](http://www.matasano.com).
 
-We're extremely concerned and active about security, but we're aware that many companies are not comfortable hosting code outside their firewall. For these companies we offer our [Firewall Install](http://fi.github.com/), a version of GitHub that can be installed to a server within the company's network.
+We're extremely concerned and active about security, but we're aware that many companies are not comfortable hosting code outside their firewall. For these companies we offer [GitHub Enterprise](https://enterprise.github.com/), a version of GitHub that can be installed to a server within the company's network.
 
 Credit card safety
 ------------------
