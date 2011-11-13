@@ -30,4 +30,4 @@ __This is by far the most complicated setup, and should be avoided if at all pos
 
 If, for whatever reason, you *must* push to each client's repos using _their_ account, this is the setup you will have to use.
 
-First, generate a second keypair to use for your second account.  To create this key follow [this guide](/key-setup-redirect), but specify a path for the key.  If you do not specify a path you may overwrite your existing key.  For example, you could use `~/.ssh/id_rsa_client`.  Once the key has been created, add the new public key to the client's account on GitHub.  To configure your local settings, see [this guide](/multiple-keys).
+First, generate a second keypair to use for your second account.  To create this key follow [this guide](/key-setup-redirect), but specify a path for the key.  If you do not specify a path you may overwrite your existing key.  For example, you could use `~/.ssh/id_rsa_client`.  Once the key has been created, add the new public key to the client's account on GitHub.
