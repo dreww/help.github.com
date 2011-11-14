@@ -14,7 +14,7 @@ This method gives the control over the repos (and the bill) to your client, but 
 
 To start, create an organization account for your client on the free plan.  Have the client create a free user account to log in with and then add this account as an owner.  They can now upgrade the org to a paid plan, after which you can create and work in repos on their org account.
 
-This approach is the cleanest, it gives the client their own account and keeps those repos within their own context.  You can easily switch between each client's org without clutting up your personal account with their repos.  Unless you or the client chooses to publicize your membership, it won't be visible to anyone outside the org that you work in that org account.
+This approach is the cleanest, it gives the client their own account and keeps those repos within their own context.  You can easily switch between each client's org without cluttering up your personal account with their repos.  Unless you or the client chooses to publicize your membership, it won't be visible to anyone outside the org that you work in that org account.
 
 Using your own account
 ----------------------
