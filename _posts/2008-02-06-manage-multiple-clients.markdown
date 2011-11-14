@@ -7,27 +7,18 @@ categories: intermediate
 
 <p class="intro">Are you a freelance developer working on multiple projects for multiple clients, and want to manage them here on GitHub?  Never fear, this guide will detail the most common solutions to this problem.</p>
 
-One account, multiple collaborators
------------------------------------
+Using organization accounts
+---------------------------
 
-This design lets you retain control over the repos, but still gives your clients access to them.
+This method gives the control over the repos (and the bill) to your client, but still allows you to administrate and work in all your clients' repos from your user account.
 
-This is the simplest (and cheapest) approach.  Simply create one account with a plan that provides enough private repos to cover all your projects.  If your client needs access to the source code, have them create a free account.  You can then add their free account as a collaborator on the projects you wish for them to have access to.
+To start, create an organization account for your client on the free plan.  Have the client create a free user account to log in with and then add this account as an owner.  They can now upgrade the org to a paid plan, after which you can create and work in repos on their org account.
 
-If you wish, you can even bill your clients for the cost of your account, and maintaining their repos on it!
+This approach is the cleanest, it gives the client their own account and keeps those repos within their own context.  You can easily switch between each client's org without clutting up your personal account with their repos.  Unless you or the client chooses to publicize your membership, it won't be visible to anyone outside the org that you work in that org account.
 
-Multiple accounts, one collaborator
------------------------------------
+Using your own account
+----------------------
 
-This design gives the control over the repos (and the bill) to your client, but still allows you to push into all your clients' repos from a single account.
+This approach lets you retain control over the repos, but still gives your clients access to them.  In many cases it is the cheapest route overall, though you will be stuck paying the bill yourself (unless you bill it to the client).
 
-With this design, have your clients each open their own paid account and create empty repos for each project.  Add your account to the repos as a collaborator.  You can now push to their repos as if they were your own!
-
-Multiple accounts, no collaborators
------------------------------------
-
-__This is by far the most complicated setup, and should be avoided if at all possible.__
-
-If, for whatever reason, you *must* push to each client's repos using _their_ account, this is the setup you will have to use.
-
-First, generate a second keypair to use for your second account.  To create this key follow [this guide](/key-setup-redirect), but specify a path for the key.  If you do not specify a path you may overwrite your existing key.  For example, you could use `~/.ssh/id_rsa_client`.  Once the key has been created, add the new public key to the client's account on GitHub.
+To use this strategy, upgrade your personal or org account to a paid plan.  Now you can add private repos for the client directly to this account.  If the client wishes to access the repos directly, they can create a free personal account and you can add that user as a collaborator (if the repos are on your personal account) or to a team (if the repos are on an org account).  With an org account you can also give them admin access to the repo if you wish.
