@@ -49,6 +49,7 @@ Once your authors file is complete, clone the subversion repository with the aut
 Other guides
 ------------
 
+* [Guide by Frederick Giasson: Moving Projects from Google Code to GitHub](http://fgiasson.com/blog/index.php/2011/11/21/moving-projects-from-google-code-to-github/)
 * [Guide by Yuval Kogman](http://blog.woobling.org/2009/06/git-svn-abandon.html)
 * [Guide by John Goulah](http://blog.johngoulah.com/2009/11/migrating-svn-to-git)
 * [Guide by Jon Maddox](http://www.simplisticcomplexity.com/2008/03/05/cleanly-migrate-your-subversion-repository-to-a-git-repository/) -- doesn't deal with branches
