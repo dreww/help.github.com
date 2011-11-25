@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Fix egit corruption
-description: How to fix corruption in a remote repo caused by egit
+title: Fix EGit corruption
+description: How to fix corruption in a remote repo caused by EGit
 categories: troubleshooting
 ---
 
