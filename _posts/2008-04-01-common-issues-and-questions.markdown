@@ -30,7 +30,7 @@ We use the excellent [pygments](http://pygments.org/) library for our syntax hig
 Can I use Eclipse/EGit with GitHub?
 -----------------------------------
 
-Yes, see [this writeup](http://gist.github.com/423316) for help.
+Yes, see [the EGit user guide](http://wiki.eclipse.org/EGit/User_Guide) for help.
 
 Are there any screencasts or other resources out there for git?
 ---------------------------------------------------------------
