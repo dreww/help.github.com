@@ -38,7 +38,7 @@ $ git remote add push git@github.com:defunkt/my-fantastic-plugin.git
 </pre>
 
 And that’s it. Make changes from within `my-awesome-framework/plugins/my-fantastic-plugin`
-and, when you’re ready, just `git push push master`.
+and, when you’re ready, just `git push master`.
 
 Best of all: people cloning your `my-awesome-framework` fork will have no
 problem pulling down your `my-fantastic-plugin` submodule, as you’ve registered
