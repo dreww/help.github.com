@@ -51,9 +51,10 @@ $(document).ready(function(){
 
   var new_tip = function() {
    $.ajax({
-      url: 'https://github.com/tips?callback=tip',
+      url: 'https://github.com/tips',
       type: 'GET',
       dataType: 'jsonp',
+      success: tip,
       error: function(resp){
         $('.tip-body > p').text('There was a problem loading your tip.')
       }
