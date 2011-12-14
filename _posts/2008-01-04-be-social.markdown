@@ -82,7 +82,7 @@ You&rsquo;ve done some of the most basic social interaction GitHub has to offer,
   
   <img src="/images/bootcamp/bootcamp_4_issues.jpg" width="558" height="131" alt="Issues" class="bootcamp top-margin"/>
 
-  When you are collaborating on a project with someone, you some times come across problems that need to be fixed. To help you keep track of these problems, each GitHub repo has a section called Issues. For an example, check out the [issues](https://github.com/octocat/Spoon-Knife/issues) for the Spoon-Knife repo.
+  When you are collaborating on a project with someone, you sometimes come across problems that need to be fixed. To help you keep track of these problems, each GitHub repo has a section called Issues. For an example, check out the [issues](https://github.com/octocat/Spoon-Knife/issues) for the Spoon-Knife repo.
   
 - <span class="step-title">Organizations</span>
 
