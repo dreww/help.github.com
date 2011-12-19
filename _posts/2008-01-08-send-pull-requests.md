@@ -215,7 +215,7 @@ to feed into the `git-am` command:
 
 <pre class="console">
 <span>$</span> git checkout master
-<span>$</span> curl http://github.com/github/jobs/pull/25.patch | git am
+<span>$</span> curl https://github.com/github/jobs/pull/25.patch | git am
 <span>$</span> git push origin master
 </pre>
 
