@@ -32,14 +32,14 @@ tekkub@iSenberg ~/tmp master*
 $ cd github-gem/
 
 tekkub@iSenberg ~/tmp/github-gem master
-$ git filter-branch --index-filter 'git rm --cached --ignore-unmatch Rakefile' HEAD
+$ git filter-branch --index-filter 'git rm --cached --ignore-unmatch Rakefile' --prune-empty -- --all
 Rewrite 48dc599c80e20527ed902928085e7861e6b3cbe6 (266/266)
 Ref 'refs/heads/master' was rewritten
 </pre>
 
-This command will run the entire history of the master branch and change any commit that involved the file `Rakefile`, and any commits afterwards.  Now that we've erased the file from history, lets ensure that we don't accidentally commit it again.
+This command will run the entire history of the every branch and tag, changing any commit that involved the file `Rakefile`, and any commits afterwards.  Commits that are empty afterwards (because they only changed the Rakefile) are removed entirely.  Now that we've erased the file from history, lets ensure that we don't accidentally commit it again.
 
-If you wish to retain tags you must specify `--tag-name-filter "cat"`, but note that *this will overwrite your existing tags*.
+Please note that *this will overwrite your existing tags*.
 
 <pre class="terminal">
 tekkub@iSenberg ~/tmp/github-gem master
@@ -54,7 +54,7 @@ $ git commit -m "Add Rakefile to .gitignore"
  1 files changed, 1 insertions(+), 0 deletions(-)
 </pre>
 
-This would be a good time to double-check that you've removed everything that you wanted to from the history.  Note that `git filter-branch` only works on one branch at a time, so you may need to perform the cleanup on other branches as well.  This could be problematic if the branch has a complex merge history.  If we're happy with the state of the repo, we need to force-push the changes to overwrite the remote repo.
+This would be a good time to double-check that you've removed everything that you wanted to from the history.  If you're happy with the state of the repo, you need to force-push the changes to overwrite the remote repo.
 
 <pre class="terminal">
 tekkub@iSenberg ~/tmp/github-gem master
@@ -67,6 +67,8 @@ Total 1058 (delta 590), reused 602 (delta 378)
 To git@github.com:defunkt/github-gem.git
  + 48dc599...051452f master -> master (forced update)
 </pre>
+
+You will need to run this for every branch and tag that was changed.  The `--all` and `--tags` flags may help make that easier.
 
 ### Cleanup and reclaiming space
 
