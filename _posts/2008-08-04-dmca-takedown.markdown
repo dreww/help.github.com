@@ -40,7 +40,7 @@ Send the written notification via regular postal mail to the following:
 > 548 4th St. <br>
 > San Francisco, CA. 94107
 
-or email notification to <copyright@github.com>
+or email notification to <copyright@github.com>.  Please send the request as **plain text**.  PDF files or images may delay processing of your request.
 
 B. Counter-Notification Policy
 ==============================
