@@ -58,7 +58,7 @@ Sometimes branches are deleted from a remote repo.  By default, `git fetch` will
 Pushing
 -------
 
-At some point you're going to want to publish commits from your repo into a remote for other users to fetch.  This process is fairly straightforward.  First you need a repo on github you can push to.  Either create a new repo, gain collaborator permissions on someone else's repo, or [fork](/forking) someone else's repo.  You can only push to an ssh URL like `git@github.com:user/repo.git`.  If you cloned another repo with a read-only URL you can add a second remote for your URL or remove or rename the existing remote.  See the [git remote manpage](http://www.kernel.org/pub/software/scm/git/docs/git-remote.html) for more information on changing remotes.
+At some point you're going to want to publish commits from your repo into a remote for other users to fetch.  This process is fairly straightforward.  First you need a repo on github you can push to.  Either create a new repo, gain collaborator permissions on someone else's repo, or [fork](/forking) someone else's repo.  You can only push to an ssh URL like `git@github.com:user/repo.git` or an https URL such like `https://user@github.com/user/repo.git`.  If you cloned another repo with a read-only URL you can add a second remote for your URL or remove or rename the existing remote.  See the [git remote manpage](http://www.kernel.org/pub/software/scm/git/docs/git-remote.html) for more information on changing remotes.
 
 ### Pushing a branch
 
