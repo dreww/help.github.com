@@ -39,7 +39,7 @@ Operational Security
 Software Security
 -----------------
 
-In addition to Rackspace's system monitoring, we also employ a team of 24/7/365 server specialists at [Anchor Hosting](http://www.anchor.com.au/dedicated-hosting/dedicated-support.py) to keep our software and its dependencies up to date eliminating potential security vulnerabilities. They have also setup a wide range of monitoring solutions for preventing and eliminating attacks to the site.
+In addition to Rackspace's system monitoring, we also employ an internal team of 24/7/365 server specialists to keep our software and its dependencies up to date eliminating potential security vulnerabilities. They have also setup a wide range of monitoring solutions for preventing and eliminating attacks to the site.
 
 Communications
 --------------
