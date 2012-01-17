@@ -117,5 +117,5 @@ Links
 
 * [raggi/github_post_receive_server](http://github.com/raggi/github_post_receive_server/) -- A template Rack server
 * [jnewland/github-campfire](http://github.com/jnewland/github-campfire/)
-* [webs/irccat](http://github.com/webs/irccat)
+* [jsierles/irccat](http://github.com/jsierles/irccat)
 * [jnunemaker/github-twitter](http://github.com/jnunemaker/github-twitter/)
