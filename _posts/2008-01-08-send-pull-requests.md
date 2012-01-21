@@ -219,6 +219,16 @@ to feed into the `git-am` command:
 <span>$</span> git push origin master
 </pre>
 
+Take into account that if you are using a private repository, the patch cannot be 
+downloaded anonymously by curl, so you have to save it through your browser, and 
+execute:
+
+<pre class="console">
+<span>$</span> git checkout master
+<span>$</span> git am /location/of/patch/25.patch
+<span>$</span> git push origin master
+</pre>
+
 #### Auto Merge
 
 In many cases it is possible to ask github to auto merge a pull request using
