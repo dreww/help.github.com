@@ -17,7 +17,7 @@ Windows
 OSX
 ---
 
-To install web docs we simply need to clone the main git repo to the correct path and check out the "html" branch.  Your documentation path may be different, pay attention to the output of `git help --web commit` for where your git is set to look for the HTML files.
+To install web docs we simply need to clone the git-htmldocs repo to the correct path. Your documentation path may be different, pay attention to the output of `git help --web commit` for where your git is set to look for the HTML files.
 
 <pre class="terminal">
 $ git help --web commit
@@ -25,7 +25,7 @@ fatal: '/usr/local/git/share/doc/git-doc': not a documentation directory.
 
 $ sudo mkdir -p /usr/local/git/share/doc
 $ cd /usr/local/git/share/doc
-$ sudo git clone git://git.kernel.org/pub/scm/git/git.git git-doc --branch html
+$ sudo git clone git://git.kernel.org/pub/scm/git/git-htmldocs.git git-doc
 </pre>
 
 To verify that the web docs now work, run `git help --web commit`.  If your browser launches then you're good to go.  You can now set git to default to the web docs by running `git config --global help.format web`
