@@ -231,7 +231,7 @@ execute:
 
 #### Auto Merge
 
-In many cases it is possible to ask github to auto merge a pull request using
+In many cases it is possible to ask GitHub to auto merge a pull request using
 the merge button. This was made possible with the launch of Pull Requests 2.0
 and is covered in the [related blog post](https://github.com/blog/843-the-merge-button).
 
