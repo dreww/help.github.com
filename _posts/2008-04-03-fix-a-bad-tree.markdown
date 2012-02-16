@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Fix a bad tree
-description: How to fix the bad tree error on a github repo caused by egit
+description: How to fix the bad tree error on a GitHub repo caused by egit
 categories: troubleshooting
 ---
 
-Due to a bug in egit's implementation of the `git rm` command, empty trees may not be removed from the index and result in a "bad tree" error on github:
+Due to a bug in egit's implementation of the `git rm` command, empty trees may not be removed from the index and result in a "bad tree" error on GitHub:
 
 ![](https://img.skitch.com/20110308-875n82b15ktc8kc34wdaj1euky.jpg)
 

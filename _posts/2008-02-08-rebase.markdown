@@ -143,8 +143,7 @@ At this point we would edit the files we need, do a `git commit --amend`, make o
 Notes
 -----
 
-* If others have branched off of the work you have doing, do _not_ modify any of the commits.  The rule in Git is that if you have work that people are working off of, you will make it hell for them if you change it.  Rebasing and amending are only for commits where you *know* no one is working off of.
-* In the upcoming 1.5.6, there will be new rebase -i commands "tag", "merge", and "reset", as well.
+* If others have branched off of the work you have been doing, do _not_ modify any of the commits.  The rule in Git is that if you have work that people are working off of, you will make it hell for them if you change it.  Rebasing and amending are only for commits that you *know* no one is working off of.
 
 References
 ----------
