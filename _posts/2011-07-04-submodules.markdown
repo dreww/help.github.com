@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Working with submodules
-description: A quickprimer for submodules
+description: A quick primer for submodules
 categories: advanced
 ---
 
