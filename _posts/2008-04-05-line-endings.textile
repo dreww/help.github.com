@@ -5,13 +5,13 @@ description: How to ensure that line endings are consistent in your repo
 categories: troubleshooting
 ---
 
-<p class="intro">Line endings... the scourge of every Windows-based developer that tries to mingle with linux- or mac-based developers.  Though most modern text editors can handle both newline types without issue, git is not as graceful.</p>
+<p class="intro">Line endings... the scourge of every Windows-based developer that tries to mingle with Linux- or Mac-based developers.  Though most modern text editors can handle both newline types without issue, git is not as graceful.</p>
 
 <p class="intro">For more info on the issue see "Wikipedia":http://en.wikipedia.org/wiki/Newline.</p>
 
 h2. Mac and Linux users, you don't get to sit this one out
 
-Although you might think you're immune to CRLF-ended files on mac and linux, you are not.  It is possible to download files from an external source that use CRLF, and thus commit them into your repo.  To be safe, you should set your config to convert line endings on commit so they are always LF in the repo:
+Although you might think you're immune to CRLF-ended files on Mac and Linux, you are not.  It is possible to download files from an external source that use CRLF, and thus commit them into your repo.  To be safe, you should set your config to convert line endings on commit so they are always LF in the repo:
 
 <pre class="terminal">$ git config --global core.autocrlf input</pre>
 
