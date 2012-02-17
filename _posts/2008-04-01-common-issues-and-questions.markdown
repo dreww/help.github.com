@@ -13,7 +13,7 @@ Make sure you've [set up an SSH key](/key-setup-redirect) and are using the corr
 My commits aren't linked to my user, to the wrong user, or don't have a Gravatar
 -----------------------------------------------------------------------------------
 
-Make sure your [git](/git-email-settings) and [GitHub](https://github.com/account#email_bucket) email settings match.
+Make sure your [git](/git-email-settings) and [GitHub](https://github.com/settings/emails) email settings match.
 
 You may also need to check your Gravatar account to make sure your Gravatar has a "G" rating.
 
