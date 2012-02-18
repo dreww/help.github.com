@@ -42,7 +42,7 @@ $(document).ready(function(){
   })
 
   $.ajax({
-      url: 'http://status.github.com/current-status.json',
+      url: 'https://status.github.com/current-status.json',
       type: 'GET',
       dataType: 'jsonp',
       error: function(resp){
