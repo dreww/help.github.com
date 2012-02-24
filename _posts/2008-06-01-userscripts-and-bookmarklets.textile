@@ -23,6 +23,7 @@ h2. GitHub
 * "GitHub Fork Count":https://github.com/skratchdot/github-fork-count.user.js - A user script to display the fork count underneath the "public" repo count on a user's main profile page.
 * "GitHub Repo Counts":https://github.com/skratchdot/github-repo-counts.user.js - A user script to display repo counts when browsing repository pages.
 * "GitHub Repo-Filter Info":https://github.com/skratchdot/github-repo-filter-info.user.js - A user script to display some additional info below the repository filter on a user's main profile page.
+* "Github Pull Request Links":https://github.com/skratchdot/github-pull-request-links.user.js - A user script to "linkify" the to/from branches on Pull Request pages.
 
 h2. Gist
 
