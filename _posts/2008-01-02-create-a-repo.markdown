@@ -100,7 +100,7 @@ While a README isn&rsquo;t a required part of a GitHub repo, it is a good idea t
 
     <pre class="terminal bootcamp">
     <span class="codeline">$ git remote add origin git@github.com:<em>username</em>/Hello-World.git<span>Sets the origin for the Hello-World repo</span></span>
-    <span class="codeline">$ git push origin master<span></span>Sends your commit to GitHub</span>
+    <span class="codeline">$ git push -u origin master<span></span>Sends your commit to GitHub</span>
     </pre>
 
     <p>Now if you look at your repository on GitHub, you will see your README has been added to it.</p>
