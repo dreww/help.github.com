@@ -6,6 +6,11 @@ categories: site_policy
 
 <p class="intro">We know your code is extremely important to you and your business and we're very protective of it. After all, GitHub's code is hosted on GitHub, too!</p>
 
+Need to report a security vulnerability?
+-------------------------
+
+Please read our policy on [Responsible Disclosure](/responsible-disclosure).
+
 Physical Security
 -----------------
 
@@ -80,8 +85,3 @@ Contact Us
 ----------
 
 Have a question, concern, or comment about GitHub security? Please email <support@github.com> for general inquiries and <security@github.com> for emergencies.
-
-Need to report something?
--------------------------
-
-Please email us immediately at <security@github.com>, this will go directly to one or more of the GitHub founders and will receive our full attention. If we don't respond immediately, there's a good chance we're trying to fix it first.
