@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Responsible Disclosure for Security Vulnerabilities
+title: Responsible Disclosure of Security Vulnerabilities
 categories: site_policy
 ---
 
