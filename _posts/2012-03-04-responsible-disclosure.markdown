@@ -15,3 +15,15 @@ Please act in good faith towards our users' privacy and data during your disclos
 ## Thanks!
 
 Thank you for your help with keeping the GitHub community safe. We really appreciate it.
+
+And a very special thanks to the following people that have responsibly disclosed vulnerabilities in the past:
+
+* Jonathan Baudanza - [@jbaudanza](https://github.com/jbaudanza)
+* Neal Poole - [@NealPoole](https://github.com/NealPoole)
+* Ryan Petrich - [@rpetrich](https://github.com/rpetrich)
+* Peter Manser - [@petermanser](https://github.com/petermanser)
+* Masato Kinugawa
+* Dan Palmer - [@danpalmer](https://github.com/danpalmer)
+* Stefano Di Paola of Minded Security - [@wisec](https://github.com/wisec)
+
+If you have responsibly disclosed a security vulnerability in the past and would like to have your name listed here, please email support@github.com with details.
