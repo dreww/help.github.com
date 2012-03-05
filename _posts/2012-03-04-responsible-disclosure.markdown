@@ -28,6 +28,7 @@ And a very special thanks to the following people that have responsibly disclose
 * Charlie Somerville - [@charliesome](https://github.com/charliesome)
 * Joseph Dougherty - [@JDougherty](https://github.com/JDougherty)
 * Brendan Coles
+* David Black - [@d1b](https://github.com/d1b)
 * Egor Homakov - [@homakov](https://github.com/homakov)
 
 If you have responsibly disclosed a security vulnerability in the past and would like to have your name listed here, please email support@github.com with details.
