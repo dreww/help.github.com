@@ -29,6 +29,12 @@ And a very special thanks to the following people that have responsibly disclose
 * Joseph Dougherty - [@JDougherty](https://github.com/JDougherty)
 * Brendan Coles
 * David Black - [@d1b](https://github.com/d1b)
+* Einar Otto Stangvik - [@einaros](https://github.com/einaros)
+* Richard "RichiH" Hartmann - [@RichiH](https://github.com/RichiH)
+* Daniel Zulla - [@zulla](https://github.com/zulla)
+* Jehiah Czebotar - [@jehiah](https://github.com/jehiah)
+* Nate Benes - [@natebenes](https://github.com/natebenes)
+* Kenny MacDermid - [@KenMacD](https://github.com/KenMacD)
 * Egor Homakov - [@homakov](https://github.com/homakov)
 
 If you have responsibly disclosed a security vulnerability in the past and would like to have your name listed here, please email support@github.com with details.
