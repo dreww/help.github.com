@@ -39,5 +39,6 @@ And a very special thanks to the following people that have responsibly disclose
 * Tito Bouzout (Montevideo, Uruguay) - [@titoBouzout](https://github.com/titoBouzout)
 * Stephen Sclafani - [@StephenSclafani](https://github.com/StephenSclafani)
 * Egor Homakov - [@homakov](https://github.com/homakov)
+* Sebastian McKenzie - [@sebastianmckenzie](https://github.com/sebastianmckenzie)
 
 If you have responsibly disclosed a security vulnerability in the past and would like to have your name listed here, please email support@github.com with details.
