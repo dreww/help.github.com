@@ -40,6 +40,7 @@ And a very special thanks to the following people that have responsibly disclose
 * Stephen Sclafani - [@StephenSclafani](https://github.com/StephenSclafani)
 * joernchen of Phenoelit - [@joernchen](https://github.com/joernchen)
 * Egor Homakov - [@homakov](https://github.com/homakov)
+* Ben Cartwright Cox - [@benjojo](https://github.com/benjojo)
 * Sebastian McKenzie - [@sebastianmckenzie](https://github.com/sebastianmckenzie)
 
 If you have responsibly disclosed a security vulnerability in the past and would like to have your name listed here, please email support@github.com with details.
