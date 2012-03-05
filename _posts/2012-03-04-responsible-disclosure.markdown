@@ -27,5 +27,6 @@ And a very special thanks to the following people that have responsibly disclose
 * Stefano Di Paola of Minded Security - [@wisec](https://github.com/wisec)
 * Charlie Somerville - [@charliesome](https://github.com/charliesome)
 * Joseph Dougherty - [@JDougherty](https://github.com/JDougherty)
+* Brendan Coles
 
 If you have responsibly disclosed a security vulnerability in the past and would like to have your name listed here, please email support@github.com with details.
