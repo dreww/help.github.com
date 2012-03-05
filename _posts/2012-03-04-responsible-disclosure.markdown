@@ -35,6 +35,7 @@ And a very special thanks to the following people that have responsibly disclose
 * Jehiah Czebotar - [@jehiah](https://github.com/jehiah)
 * Nate Benes - [@natebenes](https://github.com/natebenes)
 * Kenny MacDermid - [@KenMacD](https://github.com/KenMacD)
+* Simon Brown - [@simonbrown](https://github.com/simonbrown)
 * Egor Homakov - [@homakov](https://github.com/homakov)
 
 If you have responsibly disclosed a security vulnerability in the past and would like to have your name listed here, please email support@github.com with details.
