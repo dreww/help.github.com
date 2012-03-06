@@ -39,6 +39,7 @@ And a very special thanks to the following people that have responsibly disclose
 * Tito Bouzout (Montevideo, Uruguay) - [@titoBouzout](https://github.com/titoBouzout)
 * Stephen Sclafani - [@StephenSclafani](https://github.com/StephenSclafani)
 * joernchen of Phenoelit - [@joernchen](https://github.com/joernchen)
+* Mike Naberezny - [@mnaberez](https://github.com/mnaberez)
 * Egor Homakov - [@homakov](https://github.com/homakov)
 * Ben Cartwright Cox - [@benjojo](https://github.com/benjojo)
 * Sebastian McKenzie - [@sebastianmckenzie](https://github.com/sebastianmckenzie)
