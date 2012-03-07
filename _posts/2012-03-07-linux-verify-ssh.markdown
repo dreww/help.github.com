@@ -28,7 +28,7 @@ We display SSH key fingerprints on GitHub along with the key's title:
 
 First, you need to open an app called Terminal.
 
-<img src="/images/bootcamp/bootcamp_1_linux_terminal.jpg" width="558" height="200" alt="Open the terminal" />
+<img src="/images/bootcamp/bootcamp_1_linux_terminal.jpg" alt="Open the terminal" />
 
 <div class="more-info">
   <h4 class="compressed">Need a quick lesson about Terminal?</h4>
