@@ -77,7 +77,7 @@ First, you need to open Terminal.app, usually found at /Applications/Utilities.
 	If you didnt not receive a &ldquo;No such file or directory&ldquo; message then what you see should look something like this:
 
 	<pre class="terminal bootcamp">
-	<span class="codeline">$ ls ~/.ssh/*.pub | xargs -L 1 ssh-keygen -l -f<span>Lists all the subdirectories in the current directory</span></span>
+	<span class="codeline">$ ls ~/.ssh/*.pub | xargs -L 1 ssh-keygen -l -f<span>Print fingerprint for each public key in the ".ssh" directory in your user directory</span></span>
 	<span class="bash-output">2048 c2:d1:0d:35:7f:b0:7d:44:c3:7d:7d:76:55:ff:99:7b /Users/chris/.ssh/github.pub (RSA)<br>2048 b7:82:bf:e4:08:33:f9:45:b5:f5:40:cf:60:ab:47:51 /Users/chris/.ssh/staging.pub (RSA)</span>
 	</pre>
 
