@@ -67,7 +67,7 @@ First, you need to open Terminal.app, usually found at /Applications/Utilities.
 	Copy and paste this command into Terminal.app to find the fingerprints for all public keys in your ".ssh" directory:
 
 	<pre class="terminal bootcamp">
-	<span class="codeline">$ ls ~/.ssh/*.pub | xargs -L 1 ssh-keygen -l -f<span>Print fingerprint for each public key in the ".ssh" directory in your user directory</span></span>
+	<span class="codeline">$ for i in ~/.ssh/*.pub; do ssh-keygen -l -f "$i"; done<span>Print fingerprint for each public key in the ".ssh" directory in your user directory</span></span>
 	</pre>
 
 	If the output says &ldquo;No such file or directory&ldquo; then you have no SSH keys locally or they are stored somewhere else.
