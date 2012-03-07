@@ -81,7 +81,7 @@ First, you need to open an app called Terminal.
 	<span class="bash-output">2048 c2:d1:0d:35:7f:b0:7d:44:c3:7d:7d:76:55:ff:99:7b /Users/chris/.ssh/github.pub (RSA)<br>2048 b7:82:bf:e4:08:33:f9:45:b5:f5:40:cf:60:ab:47:51 /Users/chris/.ssh/staging.pub (RSA)</span>
 	</pre>
 
-	The fingerprints are the hexidecimal strings, e.g. <code>22:d4:ab:9d:be:a9:4f:86:a2:05:45:88:0d:14:ea:e8</code>.
+	The fingerprints are the hexadecimal strings, e.g. <code>22:d4:ab:9d:be:a9:4f:86:a2:05:45:88:0d:14:ea:e8</code>.
 
 	Now open <https://github.com/settings/ssh> and make sure the fingerprints attached to your GitHub account match the fingerprints in Terminal.
 
