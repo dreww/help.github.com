@@ -4,7 +4,7 @@ title: Verify Your SSH Keys
 description: A quick guide to help you verify your SSH keys using fingerprints
 ---
 
-<p class="intro">This is the guide to verifying your SSH keys in <strong>Linmnux</strong>. There are also guides for <strong><a href="/win-verify-ssh">Windows</a></strong> and <strong><a href="/mac-verify-ssh">OS X</a></strong>.</p>
+<p class="intro">This is the guide to verifying your SSH keys in <strong>Linux</strong>. There are also guides for <strong><a href="/win-verify-ssh">Windows</a></strong> and <strong><a href="/mac-verify-ssh">OS X</a></strong>.</p>
 
 <p>GitHub uses SSH keys to establish a secure connection between your computer and GitHub.</p>
 
