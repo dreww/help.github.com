@@ -6,7 +6,7 @@ description: A quick guide to help you verify your SSH keys using the fingerprin
 
 <p class="intro">
   This is the guide to verifying your SSH keys in <strong>Windows</strong>.
-  There are also guides for <strong><a href="/mac-verify-ssh">Windows</a></strong>
+  There are also guides for <strong><a href="/mac-verify-ssh">OS X</a></strong>
   and <strong><a href="/linux-verify-ssh">Linux</a></strong>.
 </p>
 
