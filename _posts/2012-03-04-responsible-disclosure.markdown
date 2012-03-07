@@ -40,6 +40,7 @@ And a very special thanks to the following people that have responsibly disclose
 * Stephen Sclafani - [@StephenSclafani](https://github.com/StephenSclafani)
 * joernchen of Phenoelit - [@joernchen](https://github.com/joernchen)
 * Mike Naberezny - [@mnaberez](https://github.com/mnaberez)
+* Adam Baldwin - [@evilpacket](https://github.com/evilpacket)
 * Egor Homakov - [@homakov](https://github.com/homakov)
 * Ben Cartwright Cox - [@benjojo](https://github.com/benjojo)
 * Sebastian McKenzie - [@sebastianmckenzie](https://github.com/sebastianmckenzie)
