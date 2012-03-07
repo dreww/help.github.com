@@ -74,7 +74,7 @@ First, you need to open Terminal.app, usually found at /Applications/Utilities.
 
 2. <span class="step-title">Compare to fingerprints on GitHub.</span>
 
-	If you didnt not receive a &ldquo;No such file or directory&ldquo; message then what you see should look something like this:
+	If you did not receive a &ldquo;No such file or directory&ldquo; message then what you see should look something like this:
 
 	<pre class="terminal bootcamp">
 	<span class="codeline">$ ls ~/.ssh/*.pub | xargs -L 1 ssh-keygen -l -f<span>Print fingerprint for each public key in the ".ssh" directory in your user directory</span></span>
