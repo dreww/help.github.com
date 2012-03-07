@@ -4,7 +4,7 @@ title: Verify Your SSH Keys
 description: A quick guide to help you verify your SSH keys using fingerprints
 ---
 
-<p class="intro">This is the guide to verifying your SSH keys in <strong>OS X</strong>. There are also guides for <strong><a href="/win-verify-ssh">Windows</a></strong> and <strong><a href="/linux-verify-ssh">Linux</a></strong>.</p>
+<p class="intro">This is the guide to verifying your SSH keys in <strong>Linmnux</strong>. There are also guides for <strong><a href="/win-verify-ssh">Windows</a></strong> and <strong><a href="/mac-verify-ssh">OS X</a></strong>.</p>
 
 <p>GitHub uses SSH keys to establish a secure connection between your computer and GitHub.</p>
 
@@ -26,14 +26,14 @@ We display SSH key fingerprints on GitHub along with the key's title:
 
 ##<span class="step">Next:</span> Find and Compare Fingerprints
 
-First, you need to open Terminal.app, usually found at /Applications/Utilities.
+First, you need to open an app called Terminal.
 
-<img src="/images/bootcamp/bootcamp_1_mac_terminal.jpg" width="558" height="200" alt="Open the terminal" />
+<img src="/images/bootcamp/bootcamp_1_linux_terminal.jpg" width="558" height="200" alt="Open the terminal" />
 
 <div class="more-info">
   <h4 class="compressed">Need a quick lesson about Terminal?</h4>
   <div class="more-content">
-    <p>Code blocks like those on this page are part of a scripting language called Bash. To use Bash scripts, we need to use an application that comes with your Mac called Terminal.</p>
+    <p>Code blocks like those on this page are part of a scripting language called Bash. To use Bash scripts, we need to use an application that comes with Linux called Terminal.</p>
 
     <h4>Input</h4>
     <pre class="terminal bootcamp">
@@ -54,7 +54,7 @@ First, you need to open Terminal.app, usually found at /Applications/Utilities.
       <span class="codeline">$ echo '<em>username</em>'<span>Outputs the text in the quotation marks.</span></span>
     </pre>
 
-    <p>Areas of yellow text represent your own personal info, repos, etc. If it is part of an input ($) line, you should replace it with your own info when you type it. If it is part of output text, it is just for your reference. It will automatically show your own info in Terminal.</p>
+    <p>Areas of yellow text represent your own personal info, repos, etc. If it is part of an input ($) line, you should replace your it with your own info when you type it. If it is part of output text, it is just for your reference. It will automatically show your own info in Terminal.</p>
 
     <p><strong>Good to know</strong>: There will be times when you type code, hit return, and all you are given is another prompt. Some actions that you execute in Terminal don&rsquo;t have any output. Don&rsquo;t worry, if there is ever a problem with your code, Terminal will let you know.</p>
 
@@ -64,7 +64,7 @@ First, you need to open Terminal.app, usually found at /Applications/Utilities.
 
 1. <span class="step-title">Find SSH key fingerprints.</span>
 
-	Copy and paste this command into Terminal.app to find the fingerprints for all public keys in your ".ssh" directory:
+	Copy and paste this command into Terminal to find the fingerprints for all public keys in your ".ssh" directory:
 
 	<pre class="terminal bootcamp">
 	<span class="codeline">$ ls ~/.ssh/*.pub | xargs -L 1 ssh-keygen -l -f<span>Print fingerprint for each public key in the ".ssh" directory in your user directory</span></span>
@@ -83,7 +83,7 @@ First, you need to open Terminal.app, usually found at /Applications/Utilities.
 
 	The fingerprints are the hexidecimal strings, e.g. <code>22:d4:ab:9d:be:a9:4f:86:a2:05:45:88:0d:14:ea:e8</code>.
 
-	Now open <https://github.com/settings/ssh> and make sure the fingerprints attached to your GitHub account match the fingerprints in Terminal.app.
+	Now open <https://github.com/settings/ssh> and make sure the fingerprints attached to your GitHub account match the fingerprints in Terminal.
 
 3. <span class="step-title">Fingerprints don't match?</span>
 
