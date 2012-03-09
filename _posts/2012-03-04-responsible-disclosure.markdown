@@ -41,6 +41,7 @@ And a very special thanks to the following people that have responsibly disclose
 * joernchen of Phenoelit - [@joernchen](https://github.com/joernchen)
 * Mike Naberezny - [@mnaberez](https://github.com/mnaberez)
 * Adam Baldwin - [@evilpacket](https://github.com/evilpacket)
+* Michael Hudson-Doyle - [@mwhudson](https://github.com/mwhudson)
 * Egor Homakov - [@homakov](https://github.com/homakov)
 * Ben Cartwright Cox - [@benjojo](https://github.com/benjojo)
 * Sebastian McKenzie - [@sebastianmckenzie](https://github.com/sebastianmckenzie)
