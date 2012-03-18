@@ -244,6 +244,6 @@ collaborators and followers know that the merge occurred:
 ![](http://img.skitch.com/20100831-x9ush35wkyxwmw4sw8yd5sx1eg.png)
 
 It's also possible to manually close a pull request in cases where the set of
-changes are rejected. This is also sometimes necessary if the changes are
+changes is rejected. This is also sometimes necessary if the changes are
 applied with `git-cherry-pick` or using some other mechanism that disallows the
 merge from being detected.
