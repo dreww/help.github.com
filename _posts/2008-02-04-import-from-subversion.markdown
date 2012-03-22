@@ -4,6 +4,10 @@ title: Import from Subversion
 categories: intermediate
 ---
 
+<p class="intro">Importing a repository from Subversion retains all
+history and makes past versions available to GitHub and various git tools.
+Choose a tool from the list below to get started.
+</p>
 
 Manual import
 -------------
