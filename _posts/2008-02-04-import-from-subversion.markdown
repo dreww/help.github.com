@@ -45,6 +45,14 @@ Once your authors file is complete, clone the subversion repository with the aut
 
 <pre class="terminal">$ git svn --authors-file=path/to/authors_file clone SVN_REPO_URL LOCAL_DIR</pre>
 
+
+Automatic import
+----------------
+
+**NOTE:** The automatic Subversion import feature has been removed from
+github.com due to potential security risks and performance issues. Please use
+one of the manual import methods described above instead.
+
 Other guides
 ------------
 
