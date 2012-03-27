@@ -74,7 +74,7 @@ While a README isn&rsquo;t a required part of a GitHub repo, it is a good idea t
       <h4 class="compressed">More about commits</h4>
       <div class="more-content">
         <p>
-          Think of a <em>commit</em> as a snapshot of your project &mdash;code, files, everything &mdash; at a particular point in time. More accurately, after your first commit, each subsequent commit is only a snapshot of your changes. For code files, this means it only takes a snapshot of the lines of code that have changed. For everything else like music or image files, it saves a new copy of the file.
+          Think of a <em>commit</em> as a snapshot of your project &mdash; code, files, everything &mdash; at a particular point in time. More accurately, after your first commit, each subsequent commit is only a snapshot of your changes. For code files, this means it only takes a snapshot of the lines of code that have changed. For everything else like music or image files, it saves a new copy of the file.
         </p>
       </div>
     </div>
