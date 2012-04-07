@@ -38,7 +38,7 @@ _&#42;If you don&rsquo;t already know what Git is, <a href="http://progit.org/bo
 
 We use SSH keys to establish a secure connection between your computer and GitHub. Setting them up is fairly easy, but does involve a number of steps.
 
-To make sure you generate a brand new key, you need to check if one already exists. First, you need to open Git Bash (not the Windows command line), found in the start menu in the git.
+To make sure you generate a brand new key, you need to check if one already exists. First, you need to open Git Bash (not the Windows command line), found in the Start Menu in the "git" folder.
 
 <img src="/images/bootcamp/bootcamp_1_win_gitbash.jpg" width="558" height="300" alt="Open the terminal" />
 
