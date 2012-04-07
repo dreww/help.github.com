@@ -15,7 +15,7 @@ Every time you make a commit with Git, it is stored in a repository (a.k.a. &ldq
   <h4 class="compressed">More about repositories</h4>
   <div class="more-content">
     <p>
-      Git stores all of your project files in a <em>repository.</em> If you are able to view hidden files on your system, you&rsquo;ll see a subdirectory called &ldquo;.git&rdquo; in the project directory where you run <code>git init</code>. This is where Git stores all of your commits, as well as everything else it needs. In addition to your local, you can also have remote repositories (like GitHub repos). Remote repositories are the same as your local repo, but stored on a different server or computer for easy collaboration, backup, and general awesomeness.
+      Git stores all of your project files in a <em>repository.</em> If you are able to view hidden files on your system, you&rsquo;ll see a subdirectory called &ldquo;.git&rdquo; in the project directory where you ran <code>git init</code>. This is where Git stores all of your commits, as well as everything else it needs. In addition to your local repo, you can also have remote repositories (like GitHub repos). Remote repositories are the same as your local repo, but stored on a different server or computer for easy collaboration, backup, and general awesomeness.
     </p>
   </div>
 </div>
@@ -74,7 +74,7 @@ While a README isn&rsquo;t a required part of a GitHub repo, it is a good idea t
       <h4 class="compressed">More about commits</h4>
       <div class="more-content">
         <p>
-          Think of a <em>commit</em> as a snapshot of your project &mdash;code, files, everything &mdash; at a particular point in time. More accurately, after your first commit, each subsequent commit is only a snapshot of your changes. For code files, this means it only takes a snapshot of the lines of code that have changed. For everything else like music or image files, it saves a new copy of the file.
+          Think of a <em>commit</em> as a snapshot of your project &mdash; code, files, everything &mdash; at a particular point in time. More accurately, after your first commit, each subsequent commit is only a snapshot of your changes. For code files, this means it only takes a snapshot of the lines of code that have changed. For everything else like music or image files, it saves a new copy of the file.
         </p>
       </div>
     </div>
