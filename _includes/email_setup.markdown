@@ -24,20 +24,3 @@
 			</p>
 		</div>
 	</div>
-
-2. <span class="step-title">Set your GitHub token.</span>
-
-	Some tools connect to GitHub without SSH. To use these tools properly you need to find and configure your API Token.
-
-	On the GitHub site _Click &ldquo;Account Settings&rdquo;_
-
-	<img src="/images/bootcamp/bootcamp_1_token.jpg" width="558" height="245" alt="Copy your API token" />
-
-	At the command line run the following code, using your GitHub username and token in place of the ones shown.
-
-	<pre class="terminal bootcamp">
-		<span class="codeline">$ git config --global github.user <em>username</em><span>Sets the GitHub username for all git instances on the system</span></span>
-		<span class="codeline">$ git config --global github.token <em>0123456789yourf0123456789token</em><span>Sets the GitHub token for all git instances on the system</span></span>
-	</pre>
-
-	__&#42;Note&#42;__ If you ever change your GitHub password, a new token will be created and will need to be updated.
