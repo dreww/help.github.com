@@ -24,3 +24,11 @@
 			</p>
 		</div>
 	</div>
+
+2. <span class="step-title">Set your GitHub token.</span>
+
+    Previous versions of our API used token authentication, but we're removing support for that soon, see https://github.com/blog/1090-github-api-moving-on for details.
+
+    If you are using a 3rd party tool that is asking for your token, you should contact the maintainer and ask them to update to our [latest API](http://developer.github.com/v3/) as the old API will stop working soon.
+
+    Please note you do not need the API Token to work with git.
