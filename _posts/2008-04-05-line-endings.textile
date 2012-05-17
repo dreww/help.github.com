@@ -47,4 +47,4 @@ h2. Moving forward
 
 Now that you've standardized the newlines in your repo things should be better.  However, every person that touches your repo should turn autocrlf on, even non-Windows users.  It is possible for them to bring in code from an outside source that has CRLF newlines, and you don't want them saved into the repo like that.
 
-For more details on the @core.autocrlf@ setting see the "git-config documentation":http://www.kernel.org/pub/software/scm/git/docs/git-config.html.
+For more details on the @core.autocrlf@ setting see the "git-config documentation":http://git-scm.com/docs/git-config
