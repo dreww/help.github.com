@@ -64,6 +64,7 @@ disclosed vulnerabilities in the past:
 * Gunnar Guðvarðarson - [@Gunni](https://github.com/Gunni)
 * Gabríel Arthúr Pétursson - [@polarina](https://github.com/polarina)
 * Nils Jünemann - [@totallyunknown](https://github.com/totallyunknown)
+* Maxim Rupp
 
 If you have responsibly disclosed a security vulnerability in the past and
 would like to have your name listed here, please email support@github.com with
